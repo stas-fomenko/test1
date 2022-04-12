@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6255eb734943598bcc6e3b25",
+    "index": 0,
+    "guid": "2ea5f8d8-bac6-4278-9d14-6766900e89d8",
+    "isActive": false,
+    "balance": "$1,301.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Eugenia Delacruz",
+    "gender": "female",
+    "company": "ENTOGROK",
+    "email": "eugeniadelacruz@entogrok.com",
+    "phone": "+1 (941) 500-3082",
+    "address": "533 Wogan Terrace, Haena, South Dakota, 9525",
+    "about": "Quis fugiat anim aliquip aliqua. Reprehenderit et cupidatat excepteur ea officia do sunt ex adipisicing fugiat in aliqua. Laborum ipsum consectetur est dolor tempor sint reprehenderit cupidatat pariatur ea.\r\n",
+    "registered": "2021-09-24T02:37:57 -03:00",
+    "latitude": 62.311524,
+    "longitude": -59.594248
+  },
+  {
+    "_id": "6255eb73d38b1a279310164a",
+    "index": 1,
+    "guid": "8e1bb92a-9f66-4ab6-bf09-c765e93678d4",
+    "isActive": true,
+    "balance": "$3,208.21",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Franklin Zimmerman",
+    "gender": "male",
+    "company": "ENERVATE",
+    "email": "franklinzimmerman@enervate.com",
+    "phone": "+1 (822) 477-2060",
+    "address": "557 Doughty Street, Garfield, Indiana, 3444",
+    "about": "Esse labore pariatur dolore ex nisi id incididunt proident sit officia incididunt aliqua esse non. Velit magna aute ullamco nisi duis anim qui veniam. Eiusmod minim magna reprehenderit esse id est labore sint. Eu magna nostrud commodo minim eu excepteur nulla velit id nulla nostrud nostrud proident in. Commodo irure aliquip proident amet quis officia esse in sint tempor esse cillum duis ipsum.\r\n",
+    "registered": "2017-03-22T10:39:40 -02:00",
+    "latitude": 47.498728,
+    "longitude": -27.235203
+  }
+]
